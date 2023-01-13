@@ -1,2 +1,2 @@
 # ORA_TOTP_UTILS
-Oracle PL/SQL TOTP Utils
+Function to generate a 6 digit code from a secret and T0
